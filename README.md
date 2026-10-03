@@ -78,8 +78,7 @@ The dataset was first explored and analyzed using Python.
 
 #### Data Quality Checks ####
 
-![Data Quality Checks](Images/Dataset_overview.png)
-
+![Data Quality Checks](images/Dataset_overview.png)
 The following checks were performed:
 
 - Dataset shape and structure.
@@ -96,7 +95,7 @@ The following checks were performed:
 
 ### Missing Values ###
 
-![Missing Values](Images/data_quality.png)
+![Missing Values](images/data_quality.png)
 
 The dataset contained:
 
@@ -156,7 +155,7 @@ Matplotlib and Seaborn were used to create visualizations including:
 
 ## MySQL Analysis
 
-![MySQL Analysis](Images/Mysql_analysis.png)
+![MySQL Analysis](images/Mysql_analysis.png)
 
 
 The cleaned dataset was imported into MySQL for structured analysis.
@@ -205,7 +204,7 @@ The analysis included:
 
 ## Advanced SQL Concepts
 
-![Advanced SQL Concepts](Images/SQL_Analysis.png)
+![Advanced SQL Concepts](images/SQL_Analysis.png)
 
 The project also uses:
 
@@ -227,7 +226,7 @@ The analyzed data was visualized in Power BI through a 3-page interactive dashbo
 
 ### Delivery Overview ###
 
-![Delivery Overview](Images/dashboard_overview.png)
+![Delivery Overview](images/dashboard_overview.png)
 
 The overview page contains:
 
@@ -261,7 +260,7 @@ Users can interact with the dashboard using:
 
 ## Delivery Performance Analysis
 
-![Delivery Performance Analysis](Images/dashboard_operational_analysis.png)
+![Delivery Performance Analysis](images/dashboard_operational_analysis.png)
 
 This page focuses on relationships between operational factors.
 
@@ -281,7 +280,7 @@ These visuals help identify differences in delivery performance across operation
 
 ## Detailed Analysis
 
-![Detailed Analysis](Images/dashboard_deep_dive.png)
+![Detailed Analysis](images/dashboard_deep_dive.png)
 
 The third page provides more detailed analysis through:
 
