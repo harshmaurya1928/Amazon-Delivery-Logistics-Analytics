@@ -78,7 +78,7 @@ The dataset was first explored and analyzed using Python.
 
 ### Data Quality Checks
 
-![Dataset Overview](images/Dataset_overview.png)
+![Data Quality Checks]\(images/Dataset_overview.png)
 
 The following checks were performed:
 
