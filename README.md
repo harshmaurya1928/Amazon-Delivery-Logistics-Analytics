@@ -76,7 +76,7 @@ The dataset contains 43,739 delivery records and 16 original columns.
 
 The dataset was first explored and analyzed using Python.
 
-#### Data Quality Checks ####
+### Data Quality Checks
 
 ![Data Quality Checks](images/Dataset_overview.png)
 The following checks were performed:
@@ -93,7 +93,7 @@ The following checks were performed:
 
 - Comparison of delivery times for records with and without missing values.
 
-### Missing Values ###
+### Missing Values
 
 ![Missing Values](images/data_quality.png)
 
