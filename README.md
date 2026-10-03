@@ -78,7 +78,8 @@ The dataset was first explored and analyzed using Python.
 
 ### Data Quality Checks
 
-![Data Quality Checks](images/Dataset_overview.png)
+![Dataset Overview](images/Dataset_overview.png)
+
 The following checks were performed:
 
 - Dataset shape and structure.
@@ -95,7 +96,7 @@ The following checks were performed:
 
 ### Missing Values
 
-![Missing Values](images/data_quality.png)
+![Data Quality Checks](images/data_quality.png)
 
 The dataset contained:
 
@@ -204,7 +205,7 @@ The analysis included:
 
 ## Advanced SQL Concepts
 
-![Advanced SQL Concepts](images/SQL_Analysis.png)
+![Advanced SQL Analysis](images/SQL_Analysis.png)
 
 The project also uses:
 
