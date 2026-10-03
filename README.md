@@ -78,7 +78,7 @@ The dataset was first explored and analyzed using Python.
 
 ### Data Quality Checks
 
-![Data Quality Checks]\(images/Dataset_overview.png)
+![Data Quality Checks](images/Dataset_overview.png)
 
 The following checks were performed:
 
@@ -96,7 +96,7 @@ The following checks were performed:
 
 ### Missing Values
 
-![Data Quality Checks](images/data_quality.png)
+![Missing Values](images/data_quality.png)
 
 The dataset contained:
 
