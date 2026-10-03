@@ -1,7 +1,3 @@
-# Amazon-Delivery-Logistics-Analytics
-End-to-end Amazon delivery analytics project using Python, MySQL, and Power BI to analyze delivery performance, traffic, weather, vehicles, areas, and product categories.
-
-
 # Amazon Delivery & Logistics Analytics #
 
 ##  Project Overview ##
@@ -82,7 +78,7 @@ The dataset was first explored and analyzed using Python.
 
 #### Data Quality Checks ####
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/Dataset%20overview%20screenshot.png?version%3D1791019397220" width="900">
+![sql analysis](Images/Dataset_overview.png)
 
 The following checks were performed:
 
@@ -100,7 +96,7 @@ The following checks were performed:
 
 ### Missing Values ###
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/Data%20quality.png?version%3D1791019428045" width="900">
+![Delivery Analysis](Images/data_quality.png)
 
 The dataset contained:
 
@@ -160,7 +156,8 @@ Matplotlib and Seaborn were used to create visualizations including:
 
 ## MySQL Analysis
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/Screenshot%202026-09-26%20155239.png?version%3D1791019035397" width="900">
+![Delivery Analysis](Images/Mysql_analysis.png)
+
 
 The cleaned dataset was imported into MySQL for structured analysis.
 
@@ -208,7 +205,7 @@ The analysis included:
 
 ## Advanced SQL Concepts
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/Screenshot%202026-09-26%20155308.png?version%3D1791019545419" width="900">
+![Sql Concept](Images/SQL_Analysis.png)
 
 The project also uses:
 
@@ -230,7 +227,7 @@ The analyzed data was visualized in Power BI through a 3-page interactive dashbo
 
 ### Delivery Overview ###
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/dashboard_overview.png?version%3D1791017881447" width="900">
+![Overview](Images/dashboard_overview.png)
 
 The overview page contains:
 
@@ -264,7 +261,7 @@ Users can interact with the dashboard using:
 
 ## Delivery Performance Analysis
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/dashboard_operational_analysis.png?version%3D1791019632483" width="900">
+![performance Analysis](Images/dashboard_operational_analysis.png)
 
 This page focuses on relationships between operational factors.
 
@@ -284,7 +281,7 @@ These visuals help identify differences in delivery performance across operation
 
 ## Detailed Analysis
 
-<img src="https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Harsh%20maurya/OneDrive/Desktop/amazone%20data/Images/dashboard_deep_dive.png?version%3D1791019654054" width="900">
+![Detailed Analysis](Images/dashboard_deep_dive.png)
 
 The third page provides more detailed analysis through:
 
